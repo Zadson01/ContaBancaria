@@ -28,10 +28,10 @@ public static void main(String[] args) {
 		
 		do {
 			System.out.println("\nEscolha uma opção:");
-            System.out.println("1 - Adicionar valor");
-            System.out.println("2 - Remover valor");
-            System.out.println("3 - Atualizar dados");
-            System.out.println("4 - Sair");
+            System.out.println("1 > Depositar valor");
+            System.out.println("2 > Despesas");
+            System.out.println("3 > Atualizar dados");
+            System.out.println("4 > Encerrar");
             escolha = sc.nextInt();
 
             
